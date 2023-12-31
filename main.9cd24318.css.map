@@ -1,0 +1,1 @@
+{"version":3,"sources":["layout\\footer.scss"],"names":[],"mappings":"AAAA;EACG;EACA;EACA;EACA","file":"main.9cd24318.css","sourceRoot":"..\\src","sourcesContent":[".footer{\r\n   color:gray;\r\n   margin-top:10px;\r\n   border-top:1px solid #555;\r\n   text-align:center;\r\n}"]}

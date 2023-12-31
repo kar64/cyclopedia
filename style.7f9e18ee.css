@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: grey;
+}
+
+.hed {
+  border-bottom: 1px solid #777;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.hed_img {
+  height: 70px;
+}
+.hed_dis {
+  color: #777;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=/style.7f9e18ee.css.map */
