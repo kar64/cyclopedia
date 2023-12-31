@@ -1,0 +1,18 @@
+body{
+    background-color:black;
+    color:grey;
+}
+.hed{
+    border-bottom:1px solid #777;
+    display:flex;
+    gap:20px;
+    align-items:center;
+    &_img{
+        height:70px;
+    }
+    &_dis{
+        color:#777;
+        font-size:50px;
+        font-weight:bold;
+    }
+}
